@@ -14,20 +14,7 @@ The Recipes App is a full-stack CRUD application built with Node.js, Express.js,
 - Get Recipe by ID: Fetch details of a specific recipe using its ID.
 - Update Recipe: Modify a recipe’s details.
 - Delete Recipe: Remove a recipe by its ID.
-## Project Structure
 
-/recipes-app
-├── controllers
-│   └── recipeController.js
-├── models
-│   └── Recipe.js
-├── routes
-│   └── recipeRoutes.js
-├── config
-│   └── db.js
-├── .env
-├── server.js
-└── README.md
 ## Folder Descriptions
 - controllers: Handles logic for CRUD operations.
 - models: Defines schema and model for recipes.
