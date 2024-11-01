@@ -23,6 +23,6 @@ The Recipes App is a full-stack CRUD application built with Node.js, Express.js,
 - server.js: Initializes the server.
 
 ## Prerequisites
-Node.js and npm installed
-MongoDB database instance (local or cloud-based, e.g., MongoDB Atlas)
-Postman for testing API requests
+- Node.js and npm installed
+- MongoDB database instance (local or cloud-based, e.g., MongoDB Atlas)
+- Postman for testing API requests
